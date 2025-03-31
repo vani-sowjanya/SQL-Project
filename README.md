@@ -43,9 +43,9 @@ The dataset has following tables:
 
 📂 **Technologies Used**
 
-SQL Database: PostgreSQL
-Queries: Complex SQL queries including JOIN, GROUP BY, HAVING, CTEs functions
-Data Cleaning: Handled NULL values and duplicates
+* SQL Database: PostgreSQL
+* Queries: Complex SQL queries including JOIN, GROUP BY, HAVING, CTEs functions
+* Data Cleaning: Handled NULL values and duplicates
 
 
 
